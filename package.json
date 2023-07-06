@@ -1,0 +1,21 @@
+{
+  "name": "webbeneficiario",
+  "version": "1.0.0",
+  "description": "Automatizacion web de beneficiario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "QA",
+    "web",
+    "de",
+    "beneficiario",
+    "automarizacion"
+  ],
+  "author": "Huinnie",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.16.0"
+  }
+}
